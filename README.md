@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_ORGANIZATION_NAME/YOUR_REPOSITORY_NAME/main/watermarked_img_12646697667740359486.png" alt="Coddy Master Dynamic Logo" width="100%" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_ORGANIZATION_NAME/YOUR_REPOSITORY_NAME/main/watermarked_img_12646697667740359486.png" alt="Coddy Master Logo" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://coddymaster.com"><img src="https://img.shields.io/badge/Partner-Odoo%20Official-purple?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Partner"></a>
-  <a href="https://www.linkedin.com/company/coddy-master/"><img src="https://img.shields.io/badge/LinkedIn-Coddy%20Master-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://coddymaster.com"><img src="https://img.shields.io/badge/Odoo-Official%20Partner-FF4500?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Partner"></a>
+  <a href="https://www.linkedin.com/company/coddy-master/"><img src="https://img.shields.io/badge/LinkedIn-Coddy%20Master-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/CoddyMaster?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-Coddy%20Master-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
 
-## 🎯 The Mission: From Chaos to Control 🚀
+## 🔸 THE MISSION: FROM CHAOS TO CONTROL 🚀
 
 We are **Coddy Master** — a tech-powered financial partner engineered specifically for small/medium-sized businesses and factory owners across Egypt and the Arab world. 
 
-We bridge the gap between compliance and hyper-growth. We don't just deliver financial data late; we build the real-time cloud infrastructure that allows business owners to make numbers-driven choices.
+We bridge the gap between financial compliance and hyper-growth. We don't just deliver financial data late; we build the real-time cloud infrastructure that allows business owners to make numbers-driven choices.
 
 > 💡 **Our Philosophy:** *We deliver clarity, not comfort.*
 
 ---
 
-## 🛠️ Our Core Ecosystem (The 3 Pillars)
+## 🔸 OUR CORE ECOSYSTEM (THE 3 PILLARS)
 
 <table width="100%">
   <tr>
@@ -41,7 +41,7 @@ We bridge the gap between compliance and hyper-growth. We don't just deliver fin
 
 ---
 
-## 💻 Technical & Implementation Stack
+## 🔸 TECHNICAL & IMPLEMENTATION STACK
 
 To ensure flawless data synchronization from the factory floor to the balance sheet, our development team builds upon:
 
@@ -51,16 +51,16 @@ To ensure flawless data synchronization from the factory floor to the balance sh
 
 ---
 
-## 📈 GitHub Activity & Insights ⚡
+## 🔸 GITHUB ACTIVITY & INSIGHTS ⚡
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORGANIZATION_NAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Coddy Master Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORGANIZATION_NAME&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORGANIZATION_NAME&show_icons=true&theme=orange&include_all_commits=true&count_private=true" alt="Coddy Master Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORGANIZATION_NAME&layout=compact&theme=orange&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-## 🤝 Let's Transform Your Operations
+## 🔸 LET'S TRANSFORM YOUR OPERATIONS
 
 Ready to stop guessing and start scaling with institutional clarity? Let’s connect!
 
@@ -74,5 +74,5 @@ Ready to stop guessing and start scaling with institutional clarity? Let’s con
 ---
 
 <p align="center">
-  Generated with ❤️ by <b>Coddy Master</b> | <i>Mastering Code, Empowering Financial Control.</i>
+  <b>Coddy Master</b> | <i>Mastering Code, Empowering Financial Control.</i>
 </p>
