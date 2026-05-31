@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_LOGO_URL_HERE" alt="Coddy Master Logo" width="100%" />
+  <img src="CoddyMasterLogo.jpg" alt="Coddy Master Logo" width="100%" />
 </p>
 
 <p align="center">
