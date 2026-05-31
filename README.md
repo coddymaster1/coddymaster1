@@ -1,50 +1,74 @@
-# 📈 Coddy Master — From Chaos to Control 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=220&section=header&text=Coddy%20Master&fontSize=50&animation=fadeIn&theme=default" alt="Coddy Master Header" />
+</p>
 
-Welcome to the official GitHub organization of **Coddy Master**. We are a tech-powered financial partner engineered for small and medium-sized businesses (SMEs) and factory owners across Egypt and the Arab world. 
-
-We are not a traditional accounting firm; we bridge the gap between compliance and strategy by integrating modern automation, cloud architecture, and senior financial expertise into a single, lean solution.
-
----
-
-## 🛠️ What We Do
-
-We provide the structural foundation that growing businesses need to move from guesswork to numbers-driven growth through three core pillars:
-
-* **🔢 Outsourced Accounting:** Professional, bank-level accurate bookkeeping, journals, VAT filing, tax compliance, and payroll automation.
-* **⚙️ Odoo ERP Implementation:** We are an **Odoo Official Partner**. We design, configure, and implement custom Odoo ERP workflows (Sales, Inventory, Manufacturing, and Finance) ensuring successful team adoption and post-launch support.
-* **📊 Virtual CFO Leadership:** Delivering owner-level dashboards, cash-flow forecasting, profit-margin analysis, and high-level financial strategies without the overhead of a full-time executive.
+<p align="center">
+  <img src="https://img.shields.io/badge/Partner-Odoo%20Official-purple?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-SMEs%20%26%20Factories-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Region-MENA%20%F0%9F%8C%8D-darkgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 💻 Tech & Engineering Focus
+## 🎯 The Mission: From Chaos to Control 🚀
 
-To deliver financial data in real-time (not 30 days late), our engineering and implementation teams work on:
+We are **Coddy Master** — a tech-powered financial partner engineered for small/medium-sized businesses and factory owners across Egypt and the Arab world. 
 
-* **ERP Systems:** Custom Odoo module development, XML/Python backend configurations, and API integrations.
-* **Data & Analytics:** Building automated cloud dashboards, pipeline trackers, and BI reporting tools for decision-makers.
-* **Integrations:** Connecting e-commerce, retail branch POS systems, and supply chains into centralized financial structures.
+> 💡 **Our Philosophy:** We deliver clarity, not comfort. We bridge the gap between financial compliance and business growth through technology and automated workflows.
 
 ---
 
-## ⚡ Why Coddy Master?
+## 🛠️ What We Master (Our Core Pillars)
 
-* **3-in-1 Cost Efficiency:** Accounting team + ERP system + CFO expertise bundled together.
-* **Tech-First Philosophy:** Driven by Odoo, cloud-native automation, and real-time synchronizations.
-* **Owner-Level Reporting:** Built for strategic builders, not just tax authorities.
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <h3>🔢 1. Outsourced Accounting</h3>
+      <p>Bank-level accurate bookkeeping, automated payroll, VAT filing, and strict tax compliance.</p>
+    </td>
+    <td width="33.3%" align="center">
+      <h3>⚙️ 2. Odoo ERP Implementation</h3>
+      <p>Official Odoo configuration, custom Python/XML workflows, inventory syncing, and manufacturing modules.</p>
+    </td>
+    <td width="33.3%" align="center">
+      <h3>📊 3. Virtual CFO Leadership</h3>
+      <p>Owner-level live dashboards, cash-flow forecasting, and strategic profit-margin analysis.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Connect with Us
+## 💻 Tech & Engineering Ecosystem
 
-Are you looking to streamline your business operations or integrate advanced financial ERP architectures? 
+To ensure real-time financial reporting (not 30 days late), our engineering team utilizes and deploys:
 
-* 🌐 **Official Website:** [coddymaster.com](https://coddymaster.com)
-* 📧 **Email:** [info@coddymaster.com](mailto:info@coddymaster.com)
-* 📞 **Phone:** +20 100 527 5315
-* 📍 **Location:** New Damietta, Egypt
+* **ERP Customizations:** Odoo Framework, Python, XML, and API integrations.
+* **Data Pipelines:** Transforming raw inventory and retail sales into live financial dashboards.
+* **Automation:** Connecting E-commerce channels and branch POS systems into centralized cloud databases.
+
+---
+
+## 📈 GitHub Activity & Stats ⚡
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORGANIZATION_NAME&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Coddy Master Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORGANIZATION_NAME&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+## 🤝 Let's Transform Your Business!
+
+Ready to stop guessing and start building with clear numbers? 
+
+* 🌐 **Explore Our Website:** [coddymaster.com](https://coddymaster.com)
+* 📧 **Drop Us a Line:** [info@coddymaster.com](mailto:info@coddymaster.com)
+* 📞 **Direct Contact:** [+20 100 527 5315](https://wa.me/201005275315)
+* 📍 **Headquarters:** New Damietta, Egypt
 
 ---
 
 <p align="center">
-  <b>Coddy Master</b> | <i>We deliver clarity, not comfort. Turning financial chaos into clear numbers.</i>
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=80&section=footer&theme=default" width="100%" />
 </p>
