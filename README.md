@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CoddyMasterLogo.jpg" alt="Coddy Master Logo" width="50%" />
+  <img src="CoddyMasterLogo.jpg" alt="Coddy Master Logo" width="25%" />
 </p>
 
 <p align="center">
