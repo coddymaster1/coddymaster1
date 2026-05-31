@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_ORGANIZATION_NAME/YOUR_REPOSITORY_NAME/main/watermarked_img_12646697667740359486.png" alt="Coddy Master Logo" width="100%" />
+  <img src="YOUR_LOGO_URL_HERE" alt="Coddy Master Logo" width="100%" />
 </p>
 
 <p align="center">
@@ -51,15 +51,6 @@ To ensure flawless data synchronization from the factory floor to the balance sh
 
 ---
 
-## 🔸 GITHUB ACTIVITY & INSIGHTS ⚡
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORGANIZATION_NAME&show_icons=true&theme=orange&include_all_commits=true&count_private=true" alt="Coddy Master Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORGANIZATION_NAME&layout=compact&theme=orange&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ## 🔸 LET'S TRANSFORM YOUR OPERATIONS
 
 Ready to stop guessing and start scaling with institutional clarity? Let’s connect!
@@ -75,4 +66,4 @@ Ready to stop guessing and start scaling with institutional clarity? Let’s con
 
 <p align="center">
   <b>Coddy Master</b> | <i>Mastering Code, Empowering Financial Control.</i>
-</p>
+</p><img width="2048" height="2048" alt="CoddyMasterLogo" src="https://github.com/user-attachments/assets/ae926f95-de05-43a4-8430-40ca138cf55d" />
