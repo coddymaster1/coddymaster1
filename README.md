@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="YOUR_LOGO_URL_HERE" alt="Coddy Master Logo" width="100%" />
+  <img src="<img width="2048" height="2048" alt="CoddyMasterLogo" src="https://github.com/user-attachments/assets/68d30296-fde7-4fde-a7d7-39d1c03d4e6b" />
+" alt="Coddy Master Logo" width="100%" />
 </p>
 
 <p align="center">
@@ -66,4 +67,4 @@ Ready to stop guessing and start scaling with institutional clarity? Let’s con
 
 <p align="center">
   <b>Coddy Master</b> | <i>Mastering Code, Empowering Financial Control.</i>
-</p><img width="2048" height="2048" alt="CoddyMasterLogo" src="https://github.com/user-attachments/assets/ae926f95-de05-43a4-8430-40ca138cf55d" />
+</p>
