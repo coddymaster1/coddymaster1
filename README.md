@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="2048" height="2048" alt="CoddyMasterLogo" src="https://github.com/user-attachments/assets/68d30296-fde7-4fde-a7d7-39d1c03d4e6b" />
+  <img src="<img width="2048" height="2048" alt="CoddyMasterLogo" src="https://github.com/user-attachments/assets/3a460688-e1ed-4bd9-b4c1-766f5c076948" />
 " alt="Coddy Master Logo" width="100%" />
 </p>
 
