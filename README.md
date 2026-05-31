@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://coddymaster.com"><img src="https://img.shields.io/badge/Partner-Odoo%20Official-purple?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Partner"></a>
-  <img src="https://img.shields.io/badge/Focus-SMEs%20%26%20Factories-orange?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Region-MENA%20%F0%9F%8C%8D-darkgreen?style=for-the-badge" alt="Region">
+  <a href="https://www.linkedin.com/company/coddy-master/"><img src="https://img.shields.io/badge/LinkedIn-Coddy%20Master-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/CoddyMaster?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-Coddy%20Master-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
@@ -65,6 +65,8 @@ To ensure flawless data synchronization from the factory floor to the balance sh
 Ready to stop guessing and start scaling with institutional clarity? Let’s connect!
 
 * 🌐 **Official Website:** [coddymaster.com](https://coddymaster.com)
+* 💼 **LinkedIn:** [Coddy Master on LinkedIn](https://www.linkedin.com/company/coddy-master/)
+* 🔹 **Facebook:** [Coddy Master on Facebook](https://www.facebook.com/CoddyMaster?locale=ar_AR)
 * 📧 **Business Email:** [info@coddymaster.com](mailto:info@coddymaster.com)
 * 📞 **Direct WhatsApp:** [+20 100 527 5315](https://wa.me/201005275315)
 * 📍 **Headquarters:** New Damietta, Egypt
