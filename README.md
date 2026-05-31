@@ -1,74 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=220&section=header&text=Coddy%20Master&fontSize=50&animation=fadeIn&theme=default" alt="Coddy Master Header" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_ORGANIZATION_NAME/YOUR_REPOSITORY_NAME/main/watermarked_img_12646697667740359486.png" alt="Coddy Master Dynamic Logo" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Partner-Odoo%20Official-purple?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-SMEs%20%26%20Factories-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Region-MENA%20%F0%9F%8C%8D-darkgreen?style=for-the-badge" />
+  <a href="https://coddymaster.com"><img src="https://img.shields.io/badge/Partner-Odoo%20Official-purple?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Partner"></a>
+  <img src="https://img.shields.io/badge/Focus-SMEs%20%26%20Factories-orange?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Region-MENA%20%F0%9F%8C%8D-darkgreen?style=for-the-badge" alt="Region">
 </p>
 
 ---
 
 ## 🎯 The Mission: From Chaos to Control 🚀
 
-We are **Coddy Master** — a tech-powered financial partner engineered for small/medium-sized businesses and factory owners across Egypt and the Arab world. 
+We are **Coddy Master** — a tech-powered financial partner engineered specifically for small/medium-sized businesses and factory owners across Egypt and the Arab world. 
 
-> 💡 **Our Philosophy:** We deliver clarity, not comfort. We bridge the gap between financial compliance and business growth through technology and automated workflows.
+We bridge the gap between compliance and hyper-growth. We don't just deliver financial data late; we build the real-time cloud infrastructure that allows business owners to make numbers-driven choices.
+
+> 💡 **Our Philosophy:** *We deliver clarity, not comfort.*
 
 ---
 
-## 🛠️ What We Master (Our Core Pillars)
+## 🛠️ Our Core Ecosystem (The 3 Pillars)
 
 <table width="100%">
   <tr>
-    <td width="33.3%" align="center">
+    <td width="33.3%" align="center" valign="top">
       <h3>🔢 1. Outsourced Accounting</h3>
-      <p>Bank-level accurate bookkeeping, automated payroll, VAT filing, and strict tax compliance.</p>
+      <p>Bank-level accurate bookkeeping, automated journals, payroll, VAT filing, and comprehensive tax compliance engineered for modern businesses.</p>
     </td>
-    <td width="33.3%" align="center">
-      <h3>⚙️ 2. Odoo ERP Implementation</h3>
-      <p>Official Odoo configuration, custom Python/XML workflows, inventory syncing, and manufacturing modules.</p>
+    <td width="33.3%" align="center" valign="top">
+      <h3>⚙️ 2. Odoo ERP Systems</h3>
+      <p>As an <b>Official Odoo Partner</b>, we design, customize, and implement end-to-end ERP workflows (Sales, Inventory, Manufacturing, and CRM) to centralize operations.</p>
     </td>
-    <td width="33.3%" align="center">
+    <td width="33.3%" align="center" valign="top">
       <h3>📊 3. Virtual CFO Leadership</h3>
-      <p>Owner-level live dashboards, cash-flow forecasting, and strategic profit-margin analysis.</p>
+      <p>Owner-level live dashboards, strict cash-flow forecasting, product margin analysis, and strategic financial scaling models.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 Tech & Engineering Ecosystem
+## 💻 Technical & Implementation Stack
 
-To ensure real-time financial reporting (not 30 days late), our engineering team utilizes and deploys:
+To ensure flawless data synchronization from the factory floor to the balance sheet, our development team builds upon:
 
-* **ERP Customizations:** Odoo Framework, Python, XML, and API integrations.
-* **Data Pipelines:** Transforming raw inventory and retail sales into live financial dashboards.
-* **Automation:** Connecting E-commerce channels and branch POS systems into centralized cloud databases.
+* **ERP Development:** Odoo Framework, Python configurations, XML views, and custom module architecture.
+* **Data Automation:** Automated data pipelines syncing Branch POS platforms and E-commerce channels into centralized financial databases.
+* **Cloud Infrastructure:** Secure, highly-available cloud environments tailored for real-time management reporting.
 
 ---
 
-## 📈 GitHub Activity & Stats ⚡
+## 📈 GitHub Activity & Insights ⚡
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORGANIZATION_NAME&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Coddy Master Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORGANIZATION_NAME&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORGANIZATION_NAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Coddy Master Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORGANIZATION_NAME&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-## 🤝 Let's Transform Your Business!
+## 🤝 Let's Transform Your Operations
 
-Ready to stop guessing and start building with clear numbers? 
+Ready to stop guessing and start scaling with institutional clarity? Let’s connect!
 
-* 🌐 **Explore Our Website:** [coddymaster.com](https://coddymaster.com)
-* 📧 **Drop Us a Line:** [info@coddymaster.com](mailto:info@coddymaster.com)
-* 📞 **Direct Contact:** [+20 100 527 5315](https://wa.me/201005275315)
+* 🌐 **Official Website:** [coddymaster.com](https://coddymaster.com)
+* 📧 **Business Email:** [info@coddymaster.com](mailto:info@coddymaster.com)
+* 📞 **Direct WhatsApp:** [+20 100 527 5315](https://wa.me/201005275315)
 * 📍 **Headquarters:** New Damietta, Egypt
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=80&section=footer&theme=default" width="100%" />
+  Generated with ❤️ by <b>Coddy Master</b> | <i>Mastering Code, Empowering Financial Control.</i>
 </p>
